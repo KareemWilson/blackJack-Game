@@ -1,0 +1,60 @@
+body {
+
+    text-align: center;
+    margin-top: 2cm;
+    background-image: url("bj.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+h1{
+
+
+    color: rgba(197, 197, 98, 0.671);
+    font-size: 3cm;
+    ;
+}
+
+
+p{
+    color: rgb(36, 121, 33);
+    font-size: 40px;
+    margin-top: 50px;
+    background-color: rgba(200, 238, 131, 0.507);
+    background-size: inherit;
+    
+    font-style: italic;
+}
+
+#start-el  {
+
+    color: rgb(164, 207, 121);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20pt;
+    
+}
+
+#newcard-el {
+    color: rgb(164, 207, 121);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 20pt;
+
+
+}
+button {
+
+    color: rgb(200, 238, 131);
+    width: 300px;
+    height: 50px;
+    cursor: pointer;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    
+
+
+}
